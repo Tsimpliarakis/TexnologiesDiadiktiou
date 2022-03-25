@@ -12,4 +12,4 @@ PX
   +SDADAS
   
   
-  tsimpliarakis.github.io/texnologiesdiadiktiou
+  https://tsimpliarakis.github.io/TexnologiesDiadiktiou/

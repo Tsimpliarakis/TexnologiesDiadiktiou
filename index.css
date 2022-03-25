@@ -12,7 +12,7 @@
     max-width: 600px;
     width: 50%;
     margin-top: 240px;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
 
 .tel{
@@ -24,7 +24,8 @@
 iframe{
     margin-top: 50px;
     border-radius: 20px;
-
+    width: 550px;
+    height: 350px;
     position: relative;
     left: 50%;
     transform: translate(-50%);

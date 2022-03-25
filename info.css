@@ -1,1 +1,24 @@
-.
+body{  
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.container {  
+    margin: auto;
+    max-width: 600px;
+    width: 50%; 
+} 
+
+.announcement{
+    border-radius: 10px;
+    background-color: #99bbff;
+    width: 80%;
+    margin: auto;
+}
+
+.ltitle{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}

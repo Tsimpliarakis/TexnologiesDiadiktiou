@@ -6,7 +6,8 @@ header{
 }
 
 .headermenu{
-    position: absolute;
+    position: relative;
+    text-align: center;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -28,4 +29,10 @@ html, body {
 
 body{
     background-color: #f1f1f1;
+}
+
+.accesability{
+    position: absolute;
+    margin-top: -4px;
+    margin-left: 5%;
 }

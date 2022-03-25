@@ -11,12 +11,21 @@
     margin: auto;
     max-width: 600px;
     width: 50%;
+    margin-top: 240px;
+    margin-bottom: 50px;
 }
 
 .tel{
-    margin-top: 240px;
-    margin-bottom: 80px;
     text-align: center;
     font-family: monospace;
     font-size: 15px;
+}
+
+iframe{
+    margin-top: 50px;
+    border-radius: 20px;
+
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
 }

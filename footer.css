@@ -1,0 +1,22 @@
+footer{
+    position: absolute;
+    height: 60px;
+    background-color: #3377ff;
+    border-radius: 20px 20px 0px 0px;
+    bottom:0px;
+    width: 100%;
+}
+
+.ftext{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: monospace;
+    font-size: 15px;
+    color: #f1f1f1;
+}
+
+iframe{
+    border-radius: 20px;
+}

@@ -1,0 +1,22 @@
+.logo{
+    position: absolute;
+    top: 165px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: auto;
+    width: 300px;
+}
+
+.hbody{
+    margin: auto;
+    max-width: 600px;
+    width: 50%;
+}
+
+.tel{
+    margin-top: 240px;
+    margin-bottom: 80px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 15px;
+}

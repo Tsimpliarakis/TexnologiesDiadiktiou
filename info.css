@@ -3,17 +3,29 @@ body{
     font-size: 15px;
 }
 
-.container {  
+.information {  
     margin: auto;
     max-width: 600px;
     width: 50%; 
+    margin-top: 20px;
 } 
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
 
 .announcement{
     border-radius: 10px;
     background-color: #99bbff;
-    width: 80%;
+    width: 45%;
     margin: auto;
+    margin-top: 20px;
+    min-width: 200px;
+    max-width: 400px;
+    line-height: 25px;
 }
 
 .ltitle{
@@ -21,4 +33,42 @@ body{
     font-weight: bold;
     text-align: center;
     text-decoration: underline;
+}
+
+.isearch{
+    /* border: none; */
+    border-radius: 10px;
+    line-height: 20px;
+    width: 78%;
+    border-radius: 10px 0px 0px 10px;
+    margin-right: -1px;
+    text-align: center;
+}
+
+input[type=search]:focus{  
+    background-color: #e6eeff;  
+    outline: none;  
+}
+
+.ibutton{
+    border-radius: 10px;
+    /* border: none; */
+    height: 26px;
+    width: 22%;
+    border-radius: 0px 10px 10px 0px;
+    margin-left: -1px;
+    background-color:aliceblue;
+}
+
+.ibutton:hover {  
+    opacity: 1;  
+} 
+
+.searchdiv{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }

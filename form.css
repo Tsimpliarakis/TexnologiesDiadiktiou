@@ -31,8 +31,12 @@ div {
     padding: 10px 0;  
 }
 
-hr {  
-    border: 1px solid #f1f1f1;  
+.titlos{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+hr {
     margin-bottom: 25px;  
 }
 

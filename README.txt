@@ -1,15 +1,6 @@
-OI PLHROFORIES THA GINOUN ME LISTA
+Εργασία στο μάθημα Τεχνολογίες Διαδικτύου
 
-THA EXEI PERIEXOMENA
-SUBTEXT KAI TETOIA
-PX
+https://tsimpliarakis.github.io/TexnologiesDiadiktiou/
 
-+SADASDSADAS
-  +SDS
-     +dSDSA
-
-+SDASDAS
-  +SDADAS
-  
-  
-  https://tsimpliarakis.github.io/TexnologiesDiadiktiou/
+Τσιμπλιαράκης Μιχαήλ 
+Γραμμένος Γεράσιμος

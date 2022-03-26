@@ -1,6 +1,6 @@
 .logo{
     position: absolute;
-    top: 165px;
+    top: 265px;
     left: 50%;
     transform: translate(-50%, -50%);
     height: auto;
@@ -17,7 +17,6 @@
 
 .tel{
     text-align: center;
-    font-family: monospace;
     font-size: 15px;
 }
 
@@ -29,4 +28,19 @@ iframe{
     position: relative;
     left: 50%;
     transform: translate(-50%);
+}
+
+html, body{
+    font-family: monospace;
+}
+
+.titlos{
+    margin-top: -200px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+hr {
+    margin-bottom: 25px;  
+    margin-bottom: 242px;
 }

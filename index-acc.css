@@ -1,0 +1,45 @@
+.logo{
+    position: absolute;
+    top: 310px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: auto;
+    width: 400px;
+}
+
+.hbody{
+    margin: auto;
+    max-width: 600px;
+    width: 50%;
+    margin-top: 240px;
+    margin-bottom: 60px;
+}
+
+.tel{
+    text-align: center;
+    font-size: 20px;
+}
+
+iframe{
+    margin-top: 50px;
+    border-radius: 20px;
+    width: 750px;
+    height: 550px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+html, body{
+    font-family: monospace;
+}
+
+.titlos{
+    margin-top: -200px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+hr {
+    margin-bottom: 242px;
+}

@@ -54,4 +54,8 @@ hr {
 
 .registerbtn:hover {  
     opacity: 1;  
-}  
+}
+
+option{
+    text-align: center;
+}

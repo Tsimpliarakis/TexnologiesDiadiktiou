@@ -85,3 +85,8 @@ input[type=search]:focus{
 hr {
     margin-bottom: 25px;
 }
+
+li{
+    margin-top: -20px;
+    padding: 30px;
+}

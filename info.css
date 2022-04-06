@@ -13,7 +13,7 @@ body{
 .container{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: top;
     flex-wrap: wrap;
     margin-bottom: 35px;
 }
@@ -21,12 +21,11 @@ body{
 .announcement{
     border-radius: 10px;
     background-color: #99bbff;
-    width: 45%;
+    width: 95%;
     margin: auto;
     margin-top: 20px;
     min-width: 200px;
-    max-width: 400px;
-    line-height: 25px;
+    width: 47%;
 }
 
 .ltitle{
@@ -82,4 +81,10 @@ input[type=search]:focus{
 
 hr {
     margin-bottom: 25px;
+}
+
+li{
+    margin-top: -20px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }

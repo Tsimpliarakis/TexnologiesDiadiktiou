@@ -28,13 +28,10 @@ input[type=text]:focus, input[type=password]:focus {
     outline: none;  
 }
 
-div {  
-    padding: 10px 0;  
-}
-
 .titlos{
     font-size: 40px;
     font-weight: bold;
+    margin-top: 40px;
 }
 
 hr {
